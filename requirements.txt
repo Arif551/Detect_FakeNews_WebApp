@@ -1,10 +1,13 @@
 --upgrade pip
-pickle-mixin==1.0.2
+pickle-mixin
 nltk
-tensorflow
+Keras
+tensorflow --user
 streamlit==1.2.0
+pickle-mixin==1.0.2
+scikit-learn==1.0.1
 streamlit-option-menu==0.3.2
 numpy==1.21.4
-scikit-learn
-
+transformers
+torchvision 
 
