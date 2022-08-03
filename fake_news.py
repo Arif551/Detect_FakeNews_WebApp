@@ -33,7 +33,7 @@ def fake_news(input_data):
     stop_words = stopwords.words('english')
     stop_words.extend(['from', 'subject', 're', 'edu', 'use'])
     # Removing Stopwords And Remove Words With 2 Or Less Characters
-    news_dataset = pd.read_csv('test.csv')
+    news_dataset = pd.read_csv('https://github.com/Arif551/Detect_FakeNews_WebApp/blob/main/test.csv')
     # counting the number of missing values in the dataset
     news_dataset.isnull().sum()
     # replacing the null values with empty string
