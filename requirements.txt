@@ -1,22 +1,11 @@
 pip install pickle-mixin
-
 pip install nltk
-
 pip install Keras
-
 pip install tensorflow --user
-
 pip install streamlit==1.2.0
-
-
 pip install scikit-learn==1.0.1
-
 pip install streamlit-option-menu==0.3.2
-
 pip install numpy==1.21.4
 
 
 
-pip install transformers
-
-pip install torchvision 
