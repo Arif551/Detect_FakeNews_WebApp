@@ -1,4 +1,4 @@
-py -m pip install --upgrade pip
+--upgrade pip
 pickle-mixin==1.0.2
 nltk
 tensorflow
