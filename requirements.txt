@@ -1,6 +1,5 @@
 pickle-mixin==1.0.2
 nltk
-Keras
 tensorflow
 streamlit-option-menu==0.3.2
 numpy==1.21.4
